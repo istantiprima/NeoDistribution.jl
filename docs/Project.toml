@@ -1,0 +1,6 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+NeoDistribution = "654ffc49-46e3-4ad1-a3b7-5de5ac2eabb5"
+
+[compat]
+Documenter = "1"
