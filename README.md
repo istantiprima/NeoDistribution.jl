@@ -1,5 +1,6 @@
 # NeoDistribution.jl
 
+
 A Julia package implementing **Neo-Normal distributions** for flexible Bayesian inference. This package provides implementations of distributions that generalize the normal distribution to accommodate skewness.
 
 ## Features
@@ -196,3 +197,4 @@ MIT
 ## Authors
 
 - Istanti Prima Nurani
+
