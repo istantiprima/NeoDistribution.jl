@@ -1,7 +1,7 @@
 name = "NeoDistribution"
 uuid = "654ffc49-46e3-4ad1-a3b7-5de5ac2eabb5"
-authors = ["Istanti Prima Nurani <istantiprima@gmail.com>"]
 version = "0.1.0"
+authors = ["Istanti Prima Nurani <istantiprima@gmail.com>"]
 
 [deps]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
@@ -23,7 +23,7 @@ Bijectors = "0.13, 0.14, 0.15, 0.16"
 Distributions = "0.25"
 DynamicPPL = "0.24 - 0.42"
 ForwardDiff = "0.10, 1"
-LogExpFunctions = "0.3"
+LogExpFunctions = "0.3, 1"
 QuadGK = "2"
 Random = "1"
 SpecialFunctions = "2"
