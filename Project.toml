@@ -1,7 +1,7 @@
 name = "NeoDistribution"
 uuid = "654ffc49-46e3-4ad1-a3b7-5de5ac2eabb5"
-authors = ["Istanti Prima Nurani <istantiprima@gmail.com>"]
 version = "0.1.0"
+authors = ["Istanti Prima Nurani <istantiprima@gmail.com>"]
 
 [deps]
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
@@ -29,7 +29,7 @@ Random = "1"
 SpecialFunctions = "2"
 Statistics = "1"
 Test = "1"
-Turing = "0.30 - 0.45"
+Turing = "0.30 - 0.45, 0.49"
 julia = "1.9"
 
 [extras]
